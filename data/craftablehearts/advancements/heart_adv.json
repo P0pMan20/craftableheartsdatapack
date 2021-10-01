@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "heartCrafted":{
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "craftablehearts:heart"
+            }
+        }
+    },
+    "rewards": {
+        "function": "craftablehearts:giveheart"
+    }
+}

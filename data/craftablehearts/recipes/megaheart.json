@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#N#",
+        "DGD",
+        "XXX"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:splash_potion",
+            "Potion": "minecraft:strong_regeneration"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "D": {
+            "item": "minecraft:diamond_hoe"
+        },
+        "E": {
+            "item": "minecraft:elytra"
+        },
+        "G": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "X": {
+            "item": "minecraft:netherite_scrap"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
